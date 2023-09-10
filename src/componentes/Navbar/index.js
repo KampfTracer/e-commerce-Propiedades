@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import './style.css'
 
 const Navbar = () => {
@@ -5,13 +6,15 @@ const Navbar = () => {
 
          <nav className="navContainer bg-dark border-bottom border-body" data-bs-theme="dark">
             
-          <a href='#' className='logo'><h1>RE/MAX REALTY</h1></a>
+          <Link to='#' className='logo'><h1>RE/MAX REALTY</h1></Link>
             <ul className="menu">
-                <li><a className="menu-link" href="#">Home</a></li>
-                <li><a className="menu-link" href="#">Propiedades</a></li>
-                <li><a className="menu-link" href="#">Terrenos</a></li>
-                <li><a className="menu-link" href="#">Nosotros</a></li>
-                <li><a className="menu-link" href="#">Contacto</a></li>
+                <li><Link className="menu-link" to="/">Home</Link></li>
+                <li><Link className="menu-link" to="/">Propiedades</Link></li>
+                <li><Link className="menu-link" to="/propiedades/habitacional">Habitacional</Link></li>
+                <li><Link className="menu-link" to="/propiedades/renta">Renta</Link></li>
+                <li><Link className="menu-link" to="/propiedades/terreno">Terrenos</Link></li>
+                <li><Link className="menu-link" to="/nosotros">Nosotros</Link></li>
+                <li><Link className="menu-link" to="/">Contacto</Link></li>
              </ul>
             <div className='carrito'>
                 <h2>🛒0</h2>

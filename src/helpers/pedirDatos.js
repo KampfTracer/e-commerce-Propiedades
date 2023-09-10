@@ -6,6 +6,21 @@ export const pedirDatos = () => {
             resolve(data)
         }, 500)
     })
+}
 
     
+export const pedirItemPorID = (id) => {
+    return new Promise((resolve, reject) => {
+
+        const item = data.find((el) => el.id ===id)
+
+        if (item) {
+            resolve (item)
+        } else {
+            reject({
+                error: "No se econtro el producto "
+            })
+        }
+        
+    })
 }
