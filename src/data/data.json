@@ -4,7 +4,7 @@
         "titulo": "Casa Elite",
         "descripcion": "Exclusiva Casa en vecindario prestigioso. Elegancia y lujo en cada detalle. Amplios espacios, cocina gourmet, jardín con piscina. ¡Contáctanos hoy!.",
         "categoria": "habitacional",
-        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "imagen": "https://st.focusedcollection.com/14026668/i/650/focused_481864748-stock-photo-empty-lounge-chairs-poolside-modern.jpg", 
         "precio": 3500,
         "stock": 10
     },
@@ -13,7 +13,7 @@
         "titulo": "Casa Familiar",
         "descripcion": "Casa Familiar en vecindario tranquilo y seguro. Amplios espacios interiores, patio trasero privado. Cerca de escuelas y servicios. ¡Contáctanos hoy",
         "categoria": "renta",
-        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "imagen": "https://www.bankiowa.bank/filesimages/help/01737_BankIowa_Website_Images_498x332_Group6_Nov2018_GenericHome.jpg",
         "precio": 500,
         "stock": 10
     },
@@ -22,7 +22,7 @@
         "titulo": "Terreno para desarrollo",
         "descripcion": "Aenean auctor gravida sem.",
         "categoria": "terreno",
-        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_694127-MLC49570481038_042022-O.webp",
         "precio": 2500,
         "stock": 6
     },
@@ -31,7 +31,7 @@
         "titulo": "Penthouse",
         "descripcion": "Penthouse de lujo con vistas panorámicas. Diseño contemporáneo, amplias terrazas privadas. Acceso a comodidades exclusivas. ¡Contáctanos hoy!",
         "categoria": "renta",
-        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "imagen": "https://elcerramiento.mx/wp-content/uploads/2020/12/elceramiento-32-especificacion-ventanas-1-1024x768.jpg",
         "precio": 14500,
         "stock": 3
     },
@@ -40,7 +40,7 @@
         "titulo": "Casa de Campo",
         "descripcion": "Casa de Campo encantadora en entorno natural. Estilo rústico, amplios espacios interiores y exteriores. Tranquilidad y contacto con la naturaleza. ¡Contáctanos hoy!",
         "categoria": "habitacional",
-        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "imagen": "https://as1.ftcdn.net/v2/jpg/04/28/73/96/1000_F_428739678_GvYgCSvj9fkmzzydtqKiAtfgCSZB2Io9.jpg",
         "precio": 11500,
         "stock": 9
     },
@@ -49,7 +49,7 @@
         "titulo": "Propiedad Agricola",
         "descripcion": "In hac habitasse platea dictumst.",
         "categoria": "terreno",
-        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "imagen": "https://www.ciren.cl/wp-content/uploads/2021/02/img-3-768x528.jpg",
         "precio": 1520,
         "stock": 4
     },
@@ -58,7 +58,7 @@
         "titulo": "Casa Vip",
         "descripcion": "Exclusiva Casa Vip con acabados de lujo. Diseño sofisticado y elegante. Privacidad y comodidades de alto nivel. ¡Contáctanos hoy!.",
         "categoria": "habitacional",
-        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "imagen": "https://www.ee-estudio.com/images/easyblog_articles/65/vivienda-saludable.jpg",
         "precio": 3500,
         "stock": 12
     },
@@ -67,7 +67,7 @@
         "titulo": "Casa Oriente",
         "descripcion": "Moderna casa orientada al este, llena de luz natural. Diseño contemporáneo con espacios amplios. Ubicada en una zona tranquila y cercana a servicios. ¡Contáctanos hoy!",
         "categoria": "renta",
-        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "imagen": "https://as2.ftcdn.net/v2/jpg/02/79/95/39/1000_F_279953994_TmVqT7CQhWQJRLXev4oFmv8GIZTgJF1d.jpg",
         "precio": 4500,
         "stock": 5
     },
@@ -76,8 +76,8 @@
         "titulo": "Terreno para construcción",
         "descripcion": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
         "categoria": "terreno",
-        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
-        "precio": 6500,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_846322-MLC69776919195_062023-O.webp",
+        "precio":1850,
         "stock": 5
     }
 ]
